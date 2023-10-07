@@ -2,7 +2,7 @@
 <Br><Br>
 # A virtual internship program by Bharat Intern
 "In the repository, I have successfully accomplished the tasks assigned to me during my Machine Learning internship with Bharat Intern".
-<Br>
+<Br><Br>
 ## TASK : 1
 #### House Price Prediction :
 "Machine Learning model to predict house price using linear regression only Jupyter notebook code.."
